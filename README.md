@@ -1,5 +1,5 @@
 # C_Decimal
-Implementation of my own s21_decimal.h library in C programming language using structured approach.
+Implementation of my own decimal.h library in C programming language using structured approach.
 
 
 ## Description
